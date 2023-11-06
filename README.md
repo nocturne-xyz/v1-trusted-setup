@@ -16,7 +16,7 @@ For our randomness beacon used to finalize the circuit, we used the output from 
 - round: `3461729`
 - value: `6efaf5842d729297ca61990527787db63d48187aed52135ac169b4d87d091847`
 
-This can be independently verified by making the following `GET` request to their public API: `https://drand.cloudflare.com/8990e7a9aaed2ffed73dbd7092123d6f289930540d7651336225dc172e51b2ce/public/3461729`. It should give the following response:
+This can be independently verified by making the following `GET` request to their public API: [https://drand.cloudflare.com/8990e7a9aaed2ffed73dbd7092123d6f289930540d7651336225dc172e51b2ce/public/3461729](https://drand.cloudflare.com/8990e7a9aaed2ffed73dbd7092123d6f289930540d7651336225dc172e51b2ce/public/3461729). It should give the following response:
 ```
 {
 	"round": 3461729,
