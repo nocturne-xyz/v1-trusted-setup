@@ -11,7 +11,7 @@ Parameters for the following three circuits were made for the trusted setup:
 | joinsplit | 251 | [view](joinsplit.md) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/joinsplit/contributions/joinsplit_final.zkey) |
 | subtreeupdate | 57 | [view](subtreeupdate) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/subtreeupdate/contributions/subtreeupdate_final.zkey) |
 
-For our randomness beacon used to finalize the circuit, we used the output from drand mainnet at round `3461729`:
+When finalizing the circuits, we used the output from drand mainnet at round `3461729` as our randomness beacon:
 - network: mainnet (chainhash `8990e7a9aaed2ffed73dbd7092123d6f289930540d7651336225dc172e51b2ce`)
 - round: `3461729`
 - value: `6efaf5842d729297ca61990527787db63d48187aed52135ac169b4d87d091847`
