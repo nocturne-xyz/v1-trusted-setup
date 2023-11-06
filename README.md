@@ -6,7 +6,7 @@ This repo serves as a record of all contributions to Nocturne V1's trusted setup
 Parameters for the following three circuits were made for the trusted setup:
 
 | Circuit | # of Contributions | Full Transcript | Final zkey |
-|------|--------------------|----------------|
+|------|--------------------|----------------|------|
 | canonaddrsigcheck | 259 | [view](canonaddrsigcheck.md) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/canonaddrsigcheck/contributions/canonaddrsigcheck_final.zkey) |
 | joinsplit | 251 | [view](joinsplit.md) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/joinsplit/contributions/joinsplit_final.zkey) |
 | subtreeupdate | 57 | [view](subtreeupdate) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/subtreeupdate/contributions/subtreeupdate_final.zkey) |
