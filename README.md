@@ -1,7 +1,7 @@
 ## Nocturne V1 Trusted Setup
 
 
-This repo serves as a record of all contributions to Nocturne V1's trusted setup. All zkeys and transcripts made available in a public S3 bucket so that anyone may independently verify them.
+This repo serves as a record of all contributions to Nocturne V1's trusted setup. All zkeys and transcripts are made available in a public S3 bucket, so that anyone may independently verify them.
 
 Parameters for the following three circuits were made for the trusted setup:
 
