@@ -7,9 +7,9 @@ Parameters for the following three circuits were made for the trusted setup:
 
 | Circuit | # of Contributions | Full Transcript | Final zkey |
 |------|--------------------|----------------|------|
-| canonaddrsigcheck | 259 | [view](canonaddrsigcheck.md) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/canonaddrsigcheck/contributions/canonaddrsigcheck_final.zkey) |
-| joinsplit | 251 | [view](joinsplit.md) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/joinsplit/contributions/joinsplit_final.zkey) |
-| subtreeupdate | 57 | [view](subtreeupdate.md) | [download](https://nocturne-v1-ph2-ceremony.s3.amazonaws.com/circuits/subtreeupdate/contributions/subtreeupdate_final.zkey) |
+| canonaddrsigcheck | 259 | [view](canonaddrsigcheck.md) | [download](https://nocturne-v1-trusted-setup.s3.amazonaws.com/circuits/canonaddrsigcheck/contributions/canonaddrsigcheck_final.zkey) |
+| joinsplit | 251 | [view](joinsplit.md) | [download](https://nocturne-v1-trusted-setup.s3.amazonaws.com/circuits/joinsplit/contributions/joinsplit_final.zkey) |
+| subtreeupdate | 57 | [view](subtreeupdate.md) | [download](https://nocturne-v1-trusted-setup.s3.amazonaws.com/circuits/subtreeupdate/contributions/subtreeupdate_final.zkey) |
 
 When finalizing the circuits, we used the output from drand mainnet at round `3461729` as our randomness beacon:
 - network: mainnet (chainhash `8990e7a9aaed2ffed73dbd7092123d6f289930540d7651336225dc172e51b2ce`)
